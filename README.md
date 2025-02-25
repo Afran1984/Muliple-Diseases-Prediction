@@ -29,19 +29,26 @@ This research emphasizes the importance of early diagnosis and treatment, which 
 This research paves the way for future developments in health analytics and predictive modeling. It highlights the potential of machine learning frameworks like Random Forest, XGBoost, and LightGBM in chronic disease prediction, while also addressing challenges such as asthma and diabetes prediction.
 
 ## University Name
-PREMIER UNIVERSITY, CHATTOGRAM.
+**PREMIER UNIVERSITY, CHATTOGRAM**
 Department of Computer Science & Engineering,
-Final Year Thesis Report.
+Final Year Thesis.
 
 ## Authors
 - **Md. Abdur Razzak Jim**  
-  Email: [afranrazzak1984@gmail.com](mailto:afranrazzak1984@gmail.com)  
+  Email: [afranrazzak1984@gmail.com](mailto:afranrazzak1984@gmail.com)
+  Student,
+  Department of Computer Science & Engineering.
+  Premier University, Chattogram.
+  ID: 1903710201984
+
 - **Mominur Rahaman Roman**  
   Email: [mominruman12121998@gmail.com](mailto:mominruman12121998@gmail.com)  
+  Student,
+  Department of Computer Science & Engineering.
+  Premier University, Chattogram.
+  ID: 1903710201988
 
-### In partial fulfillment for the degree of 
-### Bachelor of Science in Computer Science and Engineering
-### under the Supervision of
+### In partial fulfillment for the degree of Bachelor of Science in Computer Science and Engineering under the Supervision of
 ## Supervisor
 - **Avishek Das**  
   Email: [avisheak.cse@std.cu.ac.bd](mailto:avisheak.cse@std.cu.ac.bd)
