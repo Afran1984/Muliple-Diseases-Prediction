@@ -1,4 +1,4 @@
-# Chronic Disease Prediction Using Machine Learning
+# Multidimensional Disease Prediction: A Comparative Exploration of Machine Learning Approaches
 
 This research explores the accurate implementation of machine learning algorithms to predict several chronic diseases, including heart disease, stroke, asthma, diabetes, kidney disease, and skin cancer. The study compares diverse models such as:
 - **Decision Trees**  
@@ -28,12 +28,25 @@ This research emphasizes the importance of early diagnosis and treatment, which 
 ## Conclusion
 This research paves the way for future developments in health analytics and predictive modeling. It highlights the potential of machine learning frameworks like Random Forest, XGBoost, and LightGBM in chronic disease prediction, while also addressing challenges such as asthma and diabetes prediction.
 
+## University Name
+PREMIER UNIVERSITY, CHATTOGRAM.
+Department of Computer Science & Engineering,
+Final Year Thesis Report.
+
 ## Authors
 - **Md. Abdur Razzak Jim**  
   Email: [afranrazzak1984@gmail.com](mailto:afranrazzak1984@gmail.com)  
 - **Mominur Rahaman Roman**  
   Email: [mominruman12121998@gmail.com](mailto:mominruman12121998@gmail.com)  
 
+### In partial fulfillment for the degree of 
+### Bachelor of Science in Computer Science and Engineering
+### under the Supervision of
 ## Supervisor
 - **Avishek Das**  
-  Email: [avisheak.cse@std.cu.ac.bd](mailto:avisheak.cse@std.cu.ac.bd)  
+  Email: [avisheak.cse@std.cu.ac.bd](mailto:avisheak.cse@std.cu.ac.bd)
+  Lecturer
+  Department of Computer Science & Engineering.
+  Premier University, Chattogram.
+  February, 2025  
+  
